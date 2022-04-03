@@ -1,4 +1,4 @@
-# R---Prevendo-Ocorrencia-de-Cancer
+# R---Problemas-Hospitalares
 
 O objetivo deste projeto será para conseguir mostrar 2 formas de trabalho, Regressão e Classificação com o R:
 
