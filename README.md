@@ -5,7 +5,7 @@ O objetivo deste projeto será para conseguir mostrar 2 formas de trabalho, Regr
 # Regressão: 
 - Problema de Negócio: Previsão de Despesas Hospitalares
 - Para esta análise, vamos usar um conjunto de dados simulando despesas médicas hipotéticas para um conjunto de pacientes espalhados por 4 regiões do Brasil. Esse dataset possui 1.338 observações e 7 variáveis.
-- Base de dados: despesas, despesas-teste
+- Base de dados: despesas.csv , despesas-teste.csv
 -  Script: PrevendoDespesasHospitalares.r
 
 # Classificação:
